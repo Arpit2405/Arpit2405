@@ -1,11 +1,5 @@
 <div data-view-component="true" class="Layout-main">      <turbo-frame id="user-profile-frame" data-turbo-action="advance">
-
-        <div class="" data-hpc="">
-          
-    
-
-
-
+ 
 
   <div class="Box mt-4 ">
   <div class="Box-body p-4">
