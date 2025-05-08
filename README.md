@@ -1,5 +1,5 @@
 
-<p dir="auto"><strong><code>Software Developer (Developer/Creator)</code></strong></p>
+<p dir="auto"><strong><code>Arpit Kumar (Developer/Creator)</code></strong></p>
 <p dir="auto">I'm an Arpit Kumar Backend developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "
  <a href="https://youtube.com/fknight" rel="nofollow">ForrestKnight</a>" to more than 50 subscribers.</p>
    <p align="left" dir="auto">
