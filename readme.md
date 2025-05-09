@@ -1,3 +1,9 @@
+<style>
+  body{
+    background:red
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
 <h3 align="center">Backend Developer with over 3 years of experience building and optimizing scalable, high-performance systems.</h3>
 
