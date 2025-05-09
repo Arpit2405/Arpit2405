@@ -1,6 +1,7 @@
-![Gojo rework concept | Fandom](https://static.wikia.nocookie.net/c694a8d8-2809-47e1-b58a-11ee0ec451fe/scale-to-width/755)
+<img src="https://static.wikia.nocookie.net/c694a8d8-2809-47e1-b58a-11ee0ec451fe/scale-to-width/755" alt="Gojo rework concept | Fandom" width="500"/>
 
 
+<img src="https://64.media.tumblr.com/74593654eef2b329f36e8563e3c56a51/9a96064a49fce88c-61/s540x810/fab464d2c29a8c701b5d212b9a722d6cede642ea.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 540px; width: 176px; height: 78px; margin: 0px;" alt="I'll be missing you" jsname="kn3ccd">
 
 <h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
 <h3 align="center">Backend Developer with over 3 years of experience building and optimizing scalable, high-performance systems.</h3>
@@ -9,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpit2405" target="blank"><img src="https://img.shields.io/twitter/follow/arpit2405?logo=twitter&style=for-the-badge" alt="arpit2405" /></a> </p>
 
-<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-92.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 498px; height: 78px; margin: 0px; width: 139px;" alt="Funny Gifs : Hacker Gif - VSGIF.com" jsname="kn3ccd">
+<img src="[https://www.icegif.com/wp-content/uploads/2023/06/icegif-92.gif](https://64.media.tumblr.com/74593654eef2b329f36e8563e3c56a51/9a96064a49fce88c-61/s540x810/fab464d2c29a8c701b5d212b9a722d6cede642ea.gif)" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 498px; height: 78px; margin: 0px; width: 139px;" alt="Funny Gifs : Hacker Gif - VSGIF.com" jsname="kn3ccd">
 
 - 🔭 I’m currently working on **PLHO**
 
