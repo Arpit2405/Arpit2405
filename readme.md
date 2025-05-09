@@ -1,3 +1,4 @@
+![Coding Background](https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
