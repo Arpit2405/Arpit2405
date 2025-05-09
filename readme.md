@@ -1,4 +1,4 @@
-![Coding Background](<img src="https://i.redd.it/n8agw6z2smyb1.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 149px; margin: 0px; width: 265px;" alt="Coding by Pixel Jeff : r/Cyberpunk" jsname="kn3ccd">)
+![Coding Banner](https://i.redd.it/n8agw6z2smyb1.gif)
 
 
 <h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
