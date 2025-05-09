@@ -1,5 +1,4 @@
-![Sukuna Jujutsu Kaisen GIF](https://i.pinimg.com/originals/5f/65/af/5f65af379d98902fe53122f45808ca47.gif)
-
+![Gojo rework concept | Fandom](https://static.wikia.nocookie.net/c694a8d8-2809-47e1-b58a-11ee0ec451fe/scale-to-width/755)
 
 
 
